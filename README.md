@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scottcode
+- 👋 Hi, I’m @rookiedan
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning from freecodecamp.net and from CS50
 - 📫 How to reach me? Here i guess :)
